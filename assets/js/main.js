@@ -5,6 +5,7 @@
 */
 
 (function($) {
+	console.log('credit HTML5UP')
 
 	var $window = $(window),
 		$body = $('body'),
